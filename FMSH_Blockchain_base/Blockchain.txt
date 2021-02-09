@@ -1,0 +1,28 @@
+--------------------------------------------------
+Block #26, complexity is 16
+Input string was: 
+Previous block hash was: 00007D4A8147E6E8F39E3B2C7FF63DA496F5D6C3A5E74C12462C5B929299CFBC
+Found nonce 563182246 with hash: 00008191B220B6D17CE3E1F897A7BE87752E365FEB8EE13FB46DA3D83ADCAC3A
+Timestamp: 1612808649
+--------------------------------------------------
+--------------------------------------------------
+Block #27, complexity is 16
+Input string was: 
+Previous block hash was: 00008191B220B6D17CE3E1F897A7BE87752E365FEB8EE13FB46DA3D83ADCAC3A
+Found nonce 273424920 with hash: 00003C13E44EA86BEE4DF255679CA5F0F452B9A632EFED584388DC75074251A6
+Timestamp: 1612808652
+--------------------------------------------------
+--------------------------------------------------
+Block #28, complexity is 16
+Input string was: 
+Previous block hash was: 00003C13E44EA86BEE4DF255679CA5F0F452B9A632EFED584388DC75074251A6
+Found nonce 805232205 with hash: 0000225E8055F30715FAB45C04A095B6B5F200FB5B1CB34BFFE2EB47BCA223FC
+Timestamp: 1612808655
+--------------------------------------------------
+--------------------------------------------------
+Block #29, complexity is 16
+Input string was: 
+Previous block hash was: 0000225E8055F30715FAB45C04A095B6B5F200FB5B1CB34BFFE2EB47BCA223FC
+Found nonce 914560540 with hash: 0000AD0B6653F9D4331C0163DA3BF214E28ED9460DE6F3BD20D4BB0A89BFAE35
+Timestamp: 1612808655
+--------------------------------------------------
